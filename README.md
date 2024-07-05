@@ -1,2 +1,2 @@
-data sets all about exploring the academic performance of students who experienced mental health issues
+Data sets all about exploring the academic performance of students who experienced mental health issues
 This online survey included sections on demographics, mental health, changes in mental health during the pandemic, self-care habits (sleep, exercise, emotion regulation, social support, and mindfulness), and both recreation (athletics partying, games, and watching online videos) and academic hobbies (studying, participating in academic organizations, attending office hours, and using educational resources), and the scores in various subjects(math,physics, biology, and chemistry).
